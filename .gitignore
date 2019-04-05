@@ -1,0 +1,17 @@
+target/
+bin/
+log/
+.idea/
+Grouping.iml
+
+
+# Eclipse setting
+.settings
+.classpath
+.project
+
+# Java annotation processor (APT)
+.factorypath
+
+# mac file attribute
+.DS_Store
